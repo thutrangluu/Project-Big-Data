@@ -1,0 +1,24 @@
+Course content and objectives
+
+This course aims to integrate various aspects involved with data science and to teach the fundamentals of working with big data. Python is used throughout this hands on course. After completing this course:
+- the student can import, process, and export data in Python
+- the student can parse, clean, and extract data from a given dataset
+- the student can perform statistical data analysis and run basic machine learning methods on a given dataset
+- the student can create appropriate and well formatted visualizations and tables
+- the student can address a data driven research question and report on their findings based on a specific dataset
+
+Types of assessment
+
+The assessments consists of three individual assignments plus one final group project. They count in different ways towards the final grade. 
+
+$ Assignment 1: 15%
+$ Assignment 2: 25%
+$ Assignment 3: 25%
+$ Final project report: 35%
+
+In principle, for the final project the three group members get the same grade, but this may exceptionally change in case of issues or uneven contributions. For the specific guidelines and grading criteria for the final project, please see the description of the corresponding Canvas assignment (and the rubrics that will be made available therein).
+
+Course structure 
+In each of the first three weeks (specifically at 9:00am on Tuesday June 7th, and at 1:30pm for the two following Mondays June 13th and 20th) there will be an in person lecture which will *not* be recorded. The attendance to the lectures is not compulsory, but warmly recommended. The notebooks used for each lecture will be made available.
+
+Good luck with the course!
